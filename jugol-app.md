@@ -88,10 +88,12 @@ import CallScreen from '@screens/message-screens/CallingScreen/CallingScreen';
 
 ## Screenshots<a name = "screenshots"></a>
 
-![jugol 1](https://res.cloudinary.com/nitishbiswas/image/upload/v1687187391/WhatsApp_Image_2023-04-20_at_10.49.10_wgehbk.jpg "banner_wop 1")
-![jugol 2](https://res.cloudinary.com/nitishbiswas/image/upload/v1687187391/WhatsApp_Image_2023-04-20_at_10.49.312_xigk52.jpg "banner_wop 2")
-![jugol 3](https://res.cloudinary.com/nitishbiswas/image/upload/v1687187393/WhatsApp_Image_2023-04-20_at_10.49.30_a7gsu5.jpg "banner_wop 3")
-![jugol 5](https://res.cloudinary.com/nitishbiswas/image/upload/v1687187391/WhatsApp_Image_2023-04-20_at_10.49.314_noqyjk.jpg "banner_wop 5")
+<div>
+<img width="350px" height = "750px" src="https://res.cloudinary.com/nitishbiswas/image/upload/v1687187391/WhatsApp_Image_2023-04-20_at_10.49.10_wgehbk.jpg" alt="cover" />
+  <img width="350px" height = "750px" src="https://res.cloudinary.com/nitishbiswas/image/upload/v1687187391/WhatsApp_Image_2023-04-20_at_10.49.312_xigk52.jpg" alt="cover" />
+  <img width="350px" height = "750px" src="https://res.cloudinary.com/nitishbiswas/image/upload/v1687187393/WhatsApp_Image_2023-04-20_at_10.49.30_a7gsu5.jpg" alt="cover" />
+  <img width="350px" height = "750px" src="https://res.cloudinary.com/nitishbiswas/image/upload/v1687187391/WhatsApp_Image_2023-04-20_at_10.49.314_noqyjk.jpg" alt="cover" />
+</div>
 
 ## Download Apk <a name = "live-link"></a>
 
