@@ -1,24 +1,25 @@
 ## Courier Panels
 
 1. **Admin Panel**
-   - Email: [admin@example.com](mailto:admin@example.com)
-   - Password: [admin_password](#)
-   - URL: [Admin Panel](#admin-panel-url)
+   - Email: admin@gmail.com
+     - Password: 123456
+   - URL: [Admin Panel](#https://admin-courier.wetechdigital.com/login)
 
 2. **Branch Panel**
-   - Email: [branch@example.com](mailto:branch@example.com)
-   - Password: [branch_password](#)
-   - URL: [Branch Panel](#branch-panel-url)
+   - Email: branch@gmail.com
+     - Password: 123456
+   - URL: [Branch Panel](#https://branch-courier.wetechdigital.com/login)
 
 3. **Merchant Panel**
-   - Email: [merchant@example.com](mailto:merchant@example.com)
-   - Password: [merchant_password](#)
-   - URL: [Merchant Panel](#merchant-panel-url)
+   - Email: merchant@gmail.com
+     - Password: 123456
+   - URL: [Merchant Panel](#https://merchant-courier.wetechdigital.com/login)
 
 4. **Rider Panel**
-   - Email: [rider@example.com](mailto:rider@example.com)
-   - Password: [rider_password](#)
-   - URL: [Rider Panel](#rider-panel-url)
+   - Email: rider@gmail.com
+     - Password: 123456
+   - URL: [Rider Panel](#https://rider-courier.wetechdigital.com/login)
 
 Please click on the relevant links to access each panel.
+
 
